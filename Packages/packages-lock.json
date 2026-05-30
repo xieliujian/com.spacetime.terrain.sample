@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.spacetime.core": {
+      "version": "file:com.spacetime.core",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.spacetime.terrain": {
+      "version": "file:com.spacetime.terrain",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.spacetime.core": "1.0.0"
+      }
+    },
     "com.unity.burst": {
       "version": "1.8.16",
       "depth": 1,
