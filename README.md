@@ -27,8 +27,7 @@ LOD0 使用 Splatmap 材质，Shader 代码中的光照计算可能与 Unity Ter
 
 ## 参考文档
 
-- [com.spacetime.terrain 包文档](../../../com.spacetime.core/Packages/com.spacetime.terrain/README.md)
-- [疑难杂症文档](../../../com.spacetime.core/Packages/com.spacetime.terrain/readme/KnownIssues.md)
+- [com.spacetime.terrain 包文档](https://github.com/xieliujian/com.spacetime.core/blob/main/Packages/com.spacetime.terrain/README.md)
 
 ---
 
