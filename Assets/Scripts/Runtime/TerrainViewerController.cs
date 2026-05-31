@@ -164,7 +164,7 @@ public class TerrainViewerController : MonoBehaviour
         float h = 40f;
         float gap = 5f;
 
-        DrawModeButton(TerrainDisplayMode.OriginalTerrain, "原始地形", x, y, w, h);
+        DrawModeButton(TerrainDisplayMode.OriginalTerrain, "Original", x, y, w, h);
         DrawModeButton(TerrainDisplayMode.MeshLOD0, "LOD0", x + (w + gap) * 1, y, w, h);
         DrawModeButton(TerrainDisplayMode.MeshLOD1, "LOD1", x + (w + gap) * 2, y, w, h);
         DrawModeButton(TerrainDisplayMode.MeshLOD2, "LOD2", x + (w + gap) * 3, y, w, h);
